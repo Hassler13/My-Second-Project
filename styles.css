@@ -93,6 +93,7 @@ section:nth-child(even){
 
 .section__title{
     margin-bottom: 20px;
+    margin-top: 60px;
 }
 /*Navigation Bar*/
 
